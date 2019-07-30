@@ -5,8 +5,12 @@ def turn_count(board)
     if position == "X" || position == "O"
       counter += 1 
      end
-     
    end
    counter
 end
 
+def current_player 
+  if turn_count.even? 
+    return "X"
+  
+end 
