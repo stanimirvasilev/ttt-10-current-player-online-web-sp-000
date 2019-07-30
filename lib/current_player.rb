@@ -14,5 +14,5 @@ def current_player
     return "X"
     elsif turn_count.even? 
     return "O"
-  
+  end
 end 
