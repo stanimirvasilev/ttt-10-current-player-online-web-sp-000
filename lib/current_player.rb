@@ -1,5 +1,5 @@
 
 def turn_count(board)
- 
-  end
+ if  board.each do 
+end
 
