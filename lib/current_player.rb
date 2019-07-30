@@ -5,5 +5,6 @@ def turn_count(board)
     if position == "X"
       counter += 1 
       elsif 
+     end
 end
 
